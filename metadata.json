@@ -1,0 +1,6 @@
+{
+  "name": "MediClaim - Medical Cost OCR Submission",
+  "description": "Upload medical bills and receipts to automatically extract employee names, clinics, sub-totals, GST, grand totals, and illness summaries via AI OCR, with multi-record management and Excel XLSX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
